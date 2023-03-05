@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tobiasmrn
 - 👀 I’m interested in Software Development and Cyber Security
-- 🌱 I’m currently learning C
 - 📫 How to reach me: @hyperraumsprung on Twitter
 
 <!---
